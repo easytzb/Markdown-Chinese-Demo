@@ -1,4 +1,4 @@
-针对中文,演示Markdown的各种语法 更多可参考[维基百科](http://zh.wikipedia.org/wiki/Markdown#.E9.93.BE.E6.8E.A5)
+针对中文,演示Markdown的各种语法 更多可参考[维基百科](http://zh.wikipedia.org/wiki/Markdown)
   
 大标题
 ===================================
